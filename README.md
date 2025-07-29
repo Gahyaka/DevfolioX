@@ -1,2 +1,0 @@
-# DevfolioX
-My Website Portofolio
